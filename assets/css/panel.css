@@ -1,0 +1,104 @@
+*{
+    list-style-type: none;
+    text-decoration: none;
+}
+
+.login {
+    width: 300px;
+    margin: 150px auto;
+}
+
+.login h3 {
+    text-align: center;
+    margin-bottom: 20px;
+    border: 1px solid red;
+    padding: 10px;
+    color: red;
+}
+
+.login input {
+    width: 100%;
+    border: 1px solid #555;
+    padding: 5px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+}
+
+.login input[type=submit] {
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+
+.login input[type=submit]:hover {
+    background-color: #666;
+}
+
+.errors {
+    margin-bottom: 10px;
+    padding: 10px;
+    background-color: rgba(255, 0, 0, 0.246);
+    border-radius: 5px;
+}
+
+.errors ul {
+    list-style: none;
+}
+
+.content {
+    margin-top: 15px;
+}
+
+.content table {
+    width: 100%;
+}
+
+.content table tr td , .content table tr th {
+    border: 1px solid #555;
+    padding: 5px;
+    text-align: center;
+}
+
+.content td a {
+    margin: 0 5px;
+}
+
+.content input , .content select, .content textarea {
+    border: solid 1px #555;
+    padding: 5px 8px;
+    width: 100%;
+    margin-bottom: 10px;
+    margin-top: 5px;
+    border-radius: 5px;
+}
+
+.content input[type=submit] {
+    color: white;
+    background-color: black;
+    cursor: pointer;
+}
+
+.content input[type=submit]:hover {
+    background-color: #555;
+}
+
+nav ul:last-child {
+    float: right;
+}
+.image{
+    height: 20%;
+    width: 20%;
+    border-radius: 10px;
+}
+.a1{
+    color: rgb(0, 0, 0);
+}
+.a2{
+    color: red;
+}
+.message{
+    margin-bottom: 10px;
+    padding: 10px;
+    background-color: rgba(66, 60, 178, 0.246);
+    border-radius: 5px;
+}

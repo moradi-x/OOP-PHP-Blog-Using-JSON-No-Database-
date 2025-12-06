@@ -1,0 +1,11 @@
+[
+    {
+        "id" : 1 ,
+        "titel" : "Moradix Website",
+        "keywords" : "scientific,technology,research,design " ,
+        "desception" : "this is a test website",
+        "authors" : "moradix",
+        "logo" : "/images/logo.png",
+        "footer" : "coperit website moradi.ir"
+    }
+]

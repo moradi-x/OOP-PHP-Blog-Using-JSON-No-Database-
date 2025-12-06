@@ -1,0 +1,19 @@
+{
+    "name": "mohamad/project",
+    "type": "project",
+    "license": "mit",
+    "autoload": {
+        "psr-4": {
+            "app\\": "src/"
+        }, "files" : [
+            "./helper.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "moradix",
+            "email": "mohamadmoradi138383@gmail.com"
+        }
+    ],
+    "require": {}
+}
