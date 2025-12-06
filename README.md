@@ -65,10 +65,10 @@ The project is built using **Object-Oriented Programming**, featuring a full adm
 
 ▶️ How to Run
 
-git clone https://github.com/YourUser/YourRepo.git
-composer install
-php -S localhost:8000
-http://localhost:8000/index.php
+- git clone https://github.com/YourUser/YourRepo.git
+- composer install
+- php -S localhost:8000
+- http://localhost:8000/index.php
 
 ---
 
