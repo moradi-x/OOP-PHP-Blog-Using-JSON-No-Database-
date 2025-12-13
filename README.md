@@ -7,6 +7,47 @@ All data including users, posts, and settings are stored inside **JSON files**.
 The project is built using **Object-Oriented Programming**, featuring a full admin panel, validation system, authentication, search, categories, and more.
 
 ---
+## 📸 Screenshots
+
+
+### 👨‍💻 User Side
+<table>
+  <tr>
+    <td align="center">
+      <img src="assets/images/homePage.png" width="400"><br>
+      <strong>Home Page</strong>
+    </td>
+    <td align="center">
+      <img src="assets/images/singlePage.png" width="400"><br>
+      <strong>Single Post Page</strong>
+    </td>
+  </tr>
+</table>
+
+### 🔐 Admin Panel
+<table>
+  <tr>
+    <td align="center">
+      <img src="assets/images/loginPage.png" width="400"><br>
+      <strong>Login Page</strong>
+    </td>
+    <td align="center">
+      <img src="assets/images/adminPage.png" width="400"><br>
+      <strong>Admin Dashboard</strong>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="assets/images/adminCreatePage.png" width="400"><br>
+      <strong>Create Post</strong>
+    </td>
+    <td align="center">
+      <img src="assets/images/adminEditPage.png" width="400"><br>
+      <strong>Edit Post</strong>
+    </td>
+  </tr>
+</table>
 
 ## 🚀 Features
 
